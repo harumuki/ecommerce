@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.75a3c87edf1a078f31cd7c71a0e774fc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.530f9aa1bc9add2b0db27726da0bdc6f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f7aa8d6ebbabc235807d013f489a27aa.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ed4edc738a6a2e623e3fa224e5d82c79.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.b68874ef335250160a24e7d5d3539825.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Hệ thống thời trang cao cấp",
+  "short_name": "Shop quần áo thời trang nam và nữ, và cho bé",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Hàng Việt Nam Xuất Khẩu chất lượng cao, giá cả tốt, phù hợp cho mọi gia đình.",
+  "background_color": "#fff",
+  "theme_color": "#000"
+}
